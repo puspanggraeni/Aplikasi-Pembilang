@@ -1,0 +1,5 @@
+D:\Vina\Pemrograman\TerbilangApp\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+D:\Vina\Pemrograman\TerbilangApp\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+D:\Vina\Pemrograman\TerbilangApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.csprojResolveAssemblyReference.cache
+D:\Vina\Pemrograman\TerbilangApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+D:\Vina\Pemrograman\TerbilangApp\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb
